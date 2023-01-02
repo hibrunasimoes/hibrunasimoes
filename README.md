@@ -1,14 +1,14 @@
-## <div align="center"> Hey! Meu nome é Bruna (ela/dela) 👋
+## <div align="center"> Hey! My name is Bruna (she/her) 👋
 
-- 🎓 Bacharel em Química pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ) com mais de 4 anos de vivência em laboratórios de pesquisa e desenvolvimento de Fármacos em doenças negligênciadas, mas atualmente estou cursando o Bootcamp DEVinHouse - Senai/SC 👩‍💻.
+- 🎓 Bachelor in Chemistry (IFRJ) with more than 4 years of experience in laboratories for the research and development of Pharmaceuticals in neglected diseases and enthusiast of web developmente technologies 
 
-- 🔭 Apaixonada por Ciência e Tecnologia, meu primeito contato com a programacao foi em um estágio na Fiocruz em modelagem molecular.
+- 🔭 My first contact with programming was during an internship at Fiocruz in molecular modeling.
 
-- 🌱 Eu estou aprendendo .NET e Angular e no caminho certo para melhorar minhas habilidades em Javascript e C#.
+- 🌱 I'm currently improving my technical skills, studying AWS, .net, and tests
 
-- 💬 Minha melhor qualidade é a comunicação, estou sempre aberta a novos aprendizados.
+- 💬 My best quality is communication, I'm always open to learning.
 
-- ✍️ Meus hobbies/atividades paralelas envolvem: futebol, tenis, música 
+- ✍️ My hobbies involve: football, tennis and music.
 
 <div align="center">
   <a href="https://github.com/hibrunasimoes">
@@ -16,7 +16,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibrunasimoes&layout=compact&langs_count=7&theme=swift"/>
 </div>
 
-## <h3> 📩Voce pode me encontrar em </h3>
+## <h3> 📩You can find out more about my work and my interests </h3>
 <div align="center">
 <a href="https://www.linkedin.com/in/bruna-simões-98768a132/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
