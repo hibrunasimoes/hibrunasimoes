@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/hibrunasimoes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hibrunasimoes&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibrunasimoes&layout=compact&langs_count=7&theme=swift"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hibrunasimoes&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hibrunasimoes&layout=compact&langs_count=7&theme=swift"/>
 </div>
 
 ## <h3> 📩You can find out more about my work and my interests </h3>
